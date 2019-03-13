@@ -1,0 +1,92 @@
+body{
+
+background-image: url(back_fon.jpg);
+min-width: 990px;
+line-height: 1,5;
+padding-left: 10px;
+}
+
+.arkusz{
+	margin: 50px;
+}
+
+.CV_arkusz2{
+	background-color: Cornsilk;
+	width: 70%;
+	border-radius: 10px;
+	text-shadow: 1px 1px 25px;
+}
+
+.CV_arkusz1{
+	background-color: LightGrey;
+	border-radius: 10px;
+	width: 25%;
+}
+
+
+.CV_arkusz1,
+.CV_arkusz2{
+	float: right;
+	padding: 3px;
+	border: 1px solid Navy;
+}
+
+img{
+	border: 1px solid Navy;
+	border-radius: 10px;
+	margin-top: 15px;
+	max-width: 170px;
+}
+
+.dosw,
+.wyksz,
+.umiej,
+.jez,
+.zaint{
+	text-decoration-line: underline;
+	margin-top: -18px;
+	color: Navy;
+}
+
+.zgoda{
+	font-size: x-small;
+	margin: 10px 15px 10px 15px;
+	color: Gray;
+	text-shadow: 0px 0px 0px;
+}
+
+.imie{
+	text-shadow: 1px 1px 0px;
+	color: Navy; 
+}
+
+.find_work{
+	margin-top: 46px;
+	color: Green;
+	text-shadow: 0px 0px 0px;
+}
+
+.linija1{
+	margin-top: 1px;
+}
+
+.linija2{
+	margin-top: 47px;
+}
+
+.linija3{
+	margin-top: 39px;
+}
+
+.CV_arkusz2 p{
+	margin-top: -10px;
+}
+
+.my_date div strong{
+	color: Navy;
+}
+
+ .copir{
+ 	font-size: x-small;
+ 	color: Green;
+ }
